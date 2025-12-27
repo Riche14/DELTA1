@@ -1,0 +1,7 @@
+{
+  "name": "AlloSanté Gabon",
+  "description": "Plateforme nationale de santé digitale pour le Gabon : informations, téléconsultation, recherche de médicaments et services d'urgence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
